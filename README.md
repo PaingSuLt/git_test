@@ -1,3 +1,3 @@
 # git_test
-My first GitHub repo! aishiteru! ore no kanojo SuLatt
+My first GitHub repo!
 Hello Odin!
